@@ -17,6 +17,10 @@ h1 {
     text-decoration: underline;
 }
 
+.download:hover {
+    cursor: pointer;
+}
+
 h2 {
     color: white;
     font-family: Verdana;
